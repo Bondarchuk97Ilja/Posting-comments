@@ -2,7 +2,7 @@
     class Comment
     {
         public $name;
-        public $email;
+        public $email; //dima hui
         public $comment;
         public $like;
 
